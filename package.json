@@ -1,0 +1,39 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "A twitter bot which tweets random motivational quotes with image",
+  "main": "src/tweet.js",
+  "scripts": {
+    "build": "mocha tests/pre.js && mocha tests/test.js && node src/tweet.js",
+    "pretest": "mocha tests/pre.js",
+    "test": "mocha tests/test.js",
+    "start": "node src/tweet.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/InspireMe.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "motivation",
+    "tweet",
+    "hashtags",
+    "inspirational",
+    "quotes"
+  ],
+  "author": "Vinit Shahdeo <vinitshahdeo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/InspireMe/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/InspireMe#readme",
+  "dependencies": {
+    "inspirational-quotes": "^1.0.5",
+    "node-base64-image": "^1.0.4",
+    "twitter": "1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
