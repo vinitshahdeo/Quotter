@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinitshahdeo/InspireMe.git"
+    "url": "git+https://github.com/vinitshahdeo/TwitterBot.git"
   },
   "keywords": [
     "twitter",
@@ -25,9 +25,9 @@
   "author": "Vinit Shahdeo <vinitshahdeo@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vinitshahdeo/InspireMe/issues"
+    "url": "https://github.com/vinitshahdeo/TwitterBot/issues"
   },
-  "homepage": "https://github.com/vinitshahdeo/InspireMe#readme",
+  "homepage": "https://vinitshahdeo.github.io/TwitterBot/",
   "dependencies": {
     "inspirational-quotes": "^1.0.5",
     "node-base64-image": "^1.0.4",
