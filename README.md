@@ -1,8 +1,8 @@
+![Quotter on Twitter By Vinit Shahdeo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png?raw=true)
+
 # Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
 ## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
-
-![Quotter on Twitter](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png?raw=true)
 
 ### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
