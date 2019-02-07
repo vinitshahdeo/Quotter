@@ -1,8 +1,6 @@
-# Twitter Bot
+# Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
-[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg)](https://github.com/vinitshahdeo/TwitterBot) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-orange.svg)](https://www.npmjs.com/package/inspirational-quotes)
-
-A Twitter Bot which tweets random motivational quotes with a picture.
+### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture!
 
 [![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-red.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot)  [![Desktop App](https://img.shields.io/badge/Motivational-Quotes-lightgray.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot) 
 
@@ -31,5 +29,7 @@ A Twitter Bot which tweets random motivational quotes with a picture.
 **[Vinit Shahdeo](https://github.com/vinitshahdeo/)**
 
 [![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg?colorA=red&colorB=blue)](https://github.com/vinitshahdeo/)
+
+[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg)](https://github.com/vinitshahdeo/TwitterBot) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-orange.svg)](https://www.npmjs.com/package/inspirational-quotes)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
