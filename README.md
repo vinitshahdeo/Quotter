@@ -10,6 +10,8 @@
 
 > #### Check **documentation** for the `source code` **[here](https://vinitshahdeo.github.io/Quotter/out/global.html)**!
 
+> #### A Big shout out to [Canva](https://www.canva.com/)! I've created the Quotter [logo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-logo.png) and Twitter [header](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png) using this. 
+
 ## Get Started
 
 - First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
