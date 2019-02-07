@@ -1,15 +1,15 @@
 # Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
-### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
+## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
 
 [![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-red.svg?style=for-the-badge&colorA=dodgerblue&colorB=orange)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge&colorA=teal&colorB=red)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-lightgray.svg?style=for-the-badge&colorA=gray&colorB=green)](https://twitter.com/SayHiToQuotter)
 
-#### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
+### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
 [![Quotter makes people smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://vinitshahdeo.github.io/Quotter/)
  
 
-### Get Started
+## Get Started
 
 - First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
 
@@ -60,11 +60,11 @@ module.exports = {
 - Generate acess token and access secret token and replace in `src/config.js`
 
 
-### Author
+### Author : **[Vinit Shahdeo](https://github.com/vinitshahdeo/)**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
 
-**[Vinit Shahdeo](https://github.com/vinitshahdeo/)**
+
 
 
 --- 
