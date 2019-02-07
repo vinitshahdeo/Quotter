@@ -12,7 +12,15 @@
 
 > #### A Big shout out to [Canva](https://www.canva.com/)! I've created the Quotter [logo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-logo.png) and Twitter [header](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png) using this. 
 
-## Get Started
+## Special Mention
+
+#### A heartfelt thanks to [Ananya](https://www.facebook.com/ananya.chaudhary.54) for suggesting the name [Quotter](https://twitter.com/SayHiToQuotter).
+
+
+#### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
+
+
+## Getting Started
 
 - First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
 
@@ -62,9 +70,10 @@ module.exports = {
 
 - Generate acess token and access secret token and replace in `src/config.js`
 
+
 #### Thanks! Glad to see you here! Don't forget to follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on [Twitter](https://twitter.com/SayHiToQuotter).
 
-### Author : **[Vinit Shahdeo](https://github.com/vinitshahdeo/)**
+### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)  [![Quotter makes people smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://vinitshahdeo.github.io/Quotter/)
 
