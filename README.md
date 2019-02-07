@@ -1,6 +1,6 @@
 # Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
-### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture!
+### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
 [![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-red.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot)  [![Desktop App](https://img.shields.io/badge/Motivational-Quotes-lightgray.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterBot) 
 
