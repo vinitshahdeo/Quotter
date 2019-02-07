@@ -1,5 +1,5 @@
 {
-  "name": "twitbot",
+  "name": "quotter",
   "version": "1.0.0",
   "description": "A twitter bot which tweets random motivational quotes with image",
   "main": "src/tweet.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinitshahdeo/TwitterBot.git"
+    "url": "git+https://github.com/vinitshahdeo/Quotter.git"
   },
   "keywords": [
     "twitter",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/vinitshahdeo/TwitterBot/issues"
   },
-  "homepage": "https://vinitshahdeo.github.io/TwitterBot/",
+  "homepage": "https://vinitshahdeo.github.io/Quotter/",
   "dependencies": {
     "inspirational-quotes": "^1.0.5",
     "node-base64-image": "^1.0.4",
