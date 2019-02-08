@@ -3,6 +3,7 @@
 
 @import "jekyll-theme-minimal";
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url('https://fonts.googleapis.com/css?family=Kanit');
 
 body{
   font-family : "Montserrat", sans-serif;
@@ -13,4 +14,5 @@ a {
 }
 h1{
   font-weight : bold;
+  font-family : 'Kanit', sans-serif;
 }
