@@ -97,4 +97,4 @@ var imageURL = 'https://source.unsplash.com/featured/?motivation';
 encodeImage(imageURL);
 
 //tweet after certain time interval
-setTimeout(encodeImage(imageURL),1000);
+//setTimeout(encodeImage(imageURL),1000);
