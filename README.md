@@ -75,7 +75,7 @@ module.exports = {
 
 ### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
-[![Built with love](https://img.shields.io/badge/Built&nbsp;With-Love-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Quotter) [![Quotter makes people smile](https://img.shields.io/badge/Makes&nbsp;People-Smile-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/Quotter/)
+[![Built with love](https://img.shields.io/badge/Built&nbsp;With-Love-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Quotter)  [![Quotter makes people smile](https://img.shields.io/badge/Makes&nbsp;People-Smile-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/Quotter/)
 
 --- 
 
