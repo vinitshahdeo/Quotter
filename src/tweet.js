@@ -96,7 +96,5 @@ var imageURL = 'https://source.unsplash.com/featured/?motivation';
 // encode the image to base64
 encodeImage(imageURL);
 
-//tweet after certain time interval
-//setTimeout(encodeImage(imageURL),1000);
-
-setInterval( function() { encodeImage(imageURL); }, 2000 );
+//tweets after every one hour
+setInterval( function() { encodeImage(imageURL); }, 3600000);
