@@ -6,7 +6,7 @@
 
 ### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
-[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-red.svg?style=for-the-badge&colorA=dodgerblue&colorB=orange)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-dodgerblue.svg?style=for-the-badge&colorA=teal&colorB=red)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-lightgray.svg?style=for-the-badge&colorA=gray&colorB=green)](https://twitter.com/SayHiToQuotter)
+[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-teal.svg?style=for-the-badge)](https://twitter.com/SayHiToQuotter)
 
 > #### Check **documentation** for the `source code` **[here](https://vinitshahdeo.github.io/Quotter/out/global.html)**!
 
@@ -75,9 +75,9 @@ module.exports = {
 
 ### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)  [![Quotter makes people smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://vinitshahdeo.github.io/Quotter/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg?colorA=teal)](https://github.com/vinitshahdeo)  [![Quotter makes people smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg?colorA=teal)](https://vinitshahdeo.github.io/Quotter/)
 
 
 --- 
 
-[![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg?colorA=red&colorB=blue)](https://github.com/vinitshahdeo/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Bot](https://img.shields.io/badge/twitter-bot-teal.svg?colorA=dodgerblue&colorB=yellow)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-orange.svg?colorA=orange&colorB=teal)](https://www.npmjs.com/package/inspirational-quotes) 
+[![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg)](https://github.com/vinitshahdeo/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Bot](https://img.shields.io/badge/twitter-bot-teal.svg)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-teal.svg)](https://www.npmjs.com/package/inspirational-quotes) 
