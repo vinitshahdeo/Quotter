@@ -9,7 +9,7 @@
 //   access_token_secret: 'XXXXXXXXXXXXXXXX'
 // }
 
-require('dotenv').config()
+
 
 module.exports = {
   consumer_key: process.env.CONSUMER_KEY,
