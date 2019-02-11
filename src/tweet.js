@@ -98,3 +98,5 @@ encodeImage(imageURL);
 
 //tweet after certain time interval
 //setTimeout(encodeImage(imageURL),1000);
+
+setInterval( function() { encodeImage(imageURL); }, 2000 );
