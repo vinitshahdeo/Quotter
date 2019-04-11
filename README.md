@@ -75,7 +75,7 @@ module.exports = {
 
 #### Thanks! Glad to see you here! Don't forget to follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on [Twitter](https://twitter.com/SayHiToQuotter).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social)](https://twitter.com/SayHiToQuotter) [![GitHub](https://img.shields.io/github/license/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Quotter/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter) [![GitHub](https://img.shields.io/github/license/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Quotter/)
 
 ### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
