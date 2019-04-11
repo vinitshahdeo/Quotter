@@ -2,7 +2,7 @@
 
 # Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social&logoColor=teal)](https://github.com/vinitshahdeo/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
 ## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
 
@@ -75,7 +75,7 @@ module.exports = {
 
 #### Thanks! Glad to see you here! Don't forget to follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on [Twitter](https://twitter.com/SayHiToQuotter).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter) [![GitHub](https://img.shields.io/github/license/vinitshahdeo/Quotter.svg?logo=github&style=social&logoColor=teal)](https://vinitshahdeo.github.io/Quotter/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social)](https://twitter.com/SayHiToQuotter) [![GitHub](https://img.shields.io/github/license/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Quotter/)
 
 ### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
