@@ -8,7 +8,7 @@
 
 ### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
-[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-teal.svg?style=for-the-badge)](https://twitter.com/SayHiToQuotter)
+[![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-teal.svg?style=for-the-badge)](https://twitter.com/SayHiToQuotter)
 
 > #### Check **documentation** for the `source code` **[here](https://vinitshahdeo.github.io/Quotter/out/global.html)**!
 
