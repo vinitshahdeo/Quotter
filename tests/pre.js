@@ -10,12 +10,12 @@ describe('Twit Bot', function() {
   });
   describe('Git URL Verification', function() {
     it('should return GitHub repository link', function() {
-      assert.equal(package.repository.url, "git+https://github.com/vinitshahdeo/InspireMe.git");
+      assert.equal(package.repository.url, "git+https://github.com/vinitshahdeo/Quotter.git");
     });
   });
   describe('Homepage URL Verification', function() {
     it('should return link to homepage', function() {
-      assert.equal(package.homepage, "https://github.com/vinitshahdeo/InspireMe#readme");
+      assert.equal(package.homepage, "https://vinitshahdeo.github.io/Quotter/");
     });
   });
   describe('License Verification', function() {
