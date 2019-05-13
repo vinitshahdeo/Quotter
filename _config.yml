@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Quotter - Twitter Bot
 show_downloads: true
+description: A twitter bot which tweets random quotes with image and #hashtags
 logo: img/quotter-logo.png
