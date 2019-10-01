@@ -80,7 +80,7 @@ module.exports = {
 ### Author : **[Vinit Shahdeo](https://www.facebook.com/vinit.shahdeo)**
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=Add&message=@vinit.shahdeo&color=teal&logo=facebook&style=flat&logoColor=white)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=Follow&message=@vinitshahdeo&color=teal&logo=instagram&style=flat&logoColor=white)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=teal&logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/vinitshahdeo/)
-
+---
 [![Built with love](https://img.shields.io/badge/Built&nbsp;With-Love-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Quotter)  [![Quotter makes people smile](https://img.shields.io/badge/Makes&nbsp;People-Smile-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/Quotter/)
 
 --- 
