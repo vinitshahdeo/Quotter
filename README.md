@@ -86,3 +86,5 @@ module.exports = {
 --- 
 
 [![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg)](https://github.com/vinitshahdeo/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Bot](https://img.shields.io/badge/twitter-bot-teal.svg)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-teal.svg)](https://www.npmjs.com/package/inspirational-quotes) 
+
+---
