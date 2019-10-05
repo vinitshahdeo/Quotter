@@ -1,5 +1,5 @@
 //@author : vinitshahdeo
-const Twitter = require('twitter');
+const Twit = require('twit');
 const base64 = require('node-base64-image');
 const config = require('./config');
 const hashtags = require('../utils/hashtags');
@@ -9,10 +9,10 @@ const today = require('../utils/today');
 /**
  * @description Used to create a twitter client
  */
-var client = new Twitter({
+var client = new Twit({
     consumer_key: config.consumer_key,
     consumer_secret: config.consumer_secret,
-    access_token_key: config.access_token_key,
+    access_token: config.access_token,
     access_token_secret: config.access_token_secret
 });
 
@@ -79,12 +79,12 @@ function getTweet(error, media, result) {
 function tweetNow(status){
     // Lets tweet it
     client.post('statuses/update', status, function(error, result) {
-        if(result){
-            console.log('\nBoom! You have just tweeted :)\n')
-        }
         if (error) {
             console.log(error)
+        } else {
+            console.log('\nBoom! You have just tweeted :)\n')
         }
+
     });
 }
 
