@@ -4,9 +4,9 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
-## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
+### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
 
-### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
+#### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
 [![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-teal.svg?style=for-the-badge)](https://twitter.com/SayHiToQuotter)
 
@@ -22,7 +22,7 @@
 #### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
 
 
-## Getting Started
+### Getting Started
 
 - First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
 
@@ -43,18 +43,18 @@ module.exports = {
 
 **Note** - Tests are written using **[Mocha](https://mochajs.org/)** and can be run using `npm test`
 
-## APIs Used
+### APIs Used
 
 - [Twitter API](https://dev.twitter.com/apps)
 - [Unsplash - Photos for Everyone](https://unsplash.com/)
 
-## Dependencies Used
+### Dependencies Used
 
 - [inspirational-quotes](https://vinitshahdeo.github.io/inspirational-quotes/)
 - [node-base64-image](https://www.npmjs.com/package/node-base64-image)
 - [twitter](https://www.npmjs.com/package/twitter)
 
-## Getting [Twitter API](https://dev.twitter.com/apps) keys
+### Getting [Twitter API](https://dev.twitter.com/apps) keys
 
 > Click [here](https://dev.twitter.com/apps) to get **Twitter API** key.
 
