@@ -89,9 +89,55 @@ function tweetNow(status){
 }
 
 /**
+ * 
+ * @description it checks the list of followers and follows them if we have not already followed them
+ */
+function followBack(){
+    // Get the list of friends (accounts which we follow)
+    client.get('friends/list', function(error, friendsResult) {
+        if (friendsResult) {
+            const friendIdList = [];
+            friendsResult.users.forEach((friend) => {
+                friendIdList.push(friend.screen_name);
+            });
+
+            // Get the list of followers
+            client.get('followers/list', function(error, followerResult) {
+                if (followerResult) {
+                    followerResult.users.forEach((follower) => {
+                        // If we are not already following the account
+                        if (!friendIdList.includes(follower.id)) {
+                            client.post('friendships/create', {
+                                screen_name: follower.screen_name
+                            }, function(error, createResult) {
+                                if (createResult) {
+                                    console.log(`Follow back success for ${follower.id} - ${follower.screen_name}`);
+                                }
+                                if (error) {
+                                    console.log(`Follow back failed for ${follower.id} - ${follower.screen_name}`);
+                                }
+                            });
+                        }
+                    });
+                }
+                if (error) {
+                    console.log(`Error occured while getting followers!`);
+                }
+            });
+        }
+        if (error) {
+            console.log(`Error occured while getting friends!`);
+        }
+    });
+    
+}
+
+/**
  * @description API to fetch random images
  */
 var imageURL = 'https://source.unsplash.com/featured/?motivation';
 
 // encode the image to base64
 encodeImage(imageURL);
+
+// followBack();
