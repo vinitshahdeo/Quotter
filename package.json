@@ -8,7 +8,7 @@
     "pretest": "mocha tests/pre.js",
     "test": "mocha tests/test.js",
     "start": "node src/tweet.js",
-    "test-lint": "./node_modules/.bin/eslint src"
+    "test-lint": "./node_modules/.bin/eslint src/**/*.js"
   },
   "repository": {
     "type": "git",
