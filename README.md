@@ -4,6 +4,10 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
+## About Twitter Bot
+
+A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API.
+
 ## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
 
 ### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
