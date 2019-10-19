@@ -1,12 +1,12 @@
 ![Quotter on Twitter By Vinit Shahdeo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png?raw=true)
 
-# Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
+## Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
-## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
+#### A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
 
-### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
+###### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
 [![Twitter Bot](https://img.shields.io/badge/Twitter-Bot-teal.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/Inspirational-Quotes-teal.svg?style=for-the-badge)](https://vinitshahdeo.github.io/inspirational-quotes/)  [![Daily Motivation](https://img.shields.io/badge/Daily-Motivation-teal.svg?style=for-the-badge)](https://twitter.com/SayHiToQuotter)
 
