@@ -85,4 +85,4 @@ module.exports = {
 
 --- 
 
-[![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg)](https://github.com/vinitshahdeo/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Bot](https://img.shields.io/badge/twitter-bot-teal.svg)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-teal.svg)](https://www.npmjs.com/package/inspirational-quotes) 
+[![Vinit Shahdeo](https://img.shields.io/badge/Author-@vinitshahdeo-teal.svg?logo=github)](https://github.com/vinitshahdeo/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Twitter Bot](https://img.shields.io/badge/twitter-bot-teal.svg?logo=twitter&logoColor=white)](https://github.com/vinitshahdeo/Quotter) [![Inspirational Quotes](https://img.shields.io/badge/inspirational-quotes-teal.svg?logo=npm&logoColor=white)](https://www.npmjs.com/package/inspirational-quotes) 
