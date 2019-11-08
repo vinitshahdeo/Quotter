@@ -29,7 +29,7 @@
   },
   "homepage": "https://vinitshahdeo.github.io/Quotter/",
   "dependencies": {
-    "inspirational-quotes": "^1.0.5",
+    "inspirational-quotes": "1.0.8",
     "node-base64-image": "^1.0.4",
     "twitter": "1.7.1"
   },
