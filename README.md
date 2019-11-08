@@ -18,6 +18,7 @@
 
 #### A heartfelt thanks to [Ananya](https://www.facebook.com/ananya.chaudhary.54) for suggesting the name [Quotter](https://twitter.com/SayHiToQuotter).
 
+You're welcome [@vinitshahdeo](https://www.facebook.com/vinit.shahdeo)
 
 #### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
 
