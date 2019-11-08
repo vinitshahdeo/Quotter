@@ -12,11 +12,11 @@
 
 > #### Check **documentation** for the `source code` **[here](https://vinitshahdeo.github.io/Quotter/out/global.html)**!
 
-> #### A Big shout out to [Canva](https://www.canva.com/)! I've created the Quotter [logo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-logo.png) and Twitter [header](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png) using this. 
+> #### **A Big shout out to [Canva](https://www.canva.com/)! I've created the Quotter [logo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-logo.png) and Twitter [header](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png) using this.** 
 
 ## Special Mention
 
-#### A heartfelt thanks to [Ananya](https://www.facebook.com/ananya.chaudhary.54) for suggesting the name [Quotter](https://twitter.com/SayHiToQuotter).
+#### **A heartfelt thanks to [Ananya](https://www.facebook.com/ananya.chaudhary.54) for suggesting the name [Quotter](https://twitter.com/SayHiToQuotter).**
 
 
 #### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
@@ -24,9 +24,9 @@
 
 ## Getting Started
 
-- First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
+- **First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```**
 
-- Replace 'XXXXXXXXX' in `src/config.js` with your [Twitter API](https://developer.twitter.com/en/apps/) keys.
+- **Replace 'XXXXXXXXX' in `src/config.js` with your [Twitter API](https://developer.twitter.com/en/apps/) keys.**
 
 ```javascript
 module.exports = {
