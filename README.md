@@ -2,9 +2,13 @@
 
 # Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
 
+-----
+
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
 ## A **[Twitter](https://twitter.com/SayHiToQuotter) Bot** which tweets random [inspirational quotes](https://vinitshahdeo.github.io/inspirational-quotes/) with a picture. 
+
+-----
 
 ### Follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on Twitter and `Stay Motivated` Always!
 
@@ -14,12 +18,16 @@
 
 > #### A Big shout out to [Canva](https://www.canva.com/)! I've created the Quotter [logo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-logo.png) and Twitter [header](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png) using this. 
 
+----
+
 ## Special Mention
 
 #### A heartfelt thanks to [Ananya](https://www.facebook.com/ananya.chaudhary.54) for suggesting the name [Quotter](https://twitter.com/SayHiToQuotter).
 
 
 #### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
+
+----
 
 
 ## Getting Started
@@ -48,11 +56,15 @@ module.exports = {
 - [Twitter API](https://dev.twitter.com/apps)
 - [Unsplash - Photos for Everyone](https://unsplash.com/)
 
+----
+
 ## Dependencies Used
 
 - [inspirational-quotes](https://vinitshahdeo.github.io/inspirational-quotes/)
 - [node-base64-image](https://www.npmjs.com/package/node-base64-image)
 - [twitter](https://www.npmjs.com/package/twitter)
+
+-----
 
 ## Getting [Twitter API](https://dev.twitter.com/apps) keys
 
@@ -72,6 +84,7 @@ module.exports = {
 
 - Generate acess token and access secret token and replace in `src/config.js`
 
+------
 
 #### Thanks! Glad to see you here! Don't forget to follow Quotter([@SayHiToQuotter](https://twitter.com/SayHiToQuotter)) on [Twitter](https://twitter.com/SayHiToQuotter).
 
