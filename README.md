@@ -22,7 +22,7 @@
 #### **[Quotes](https://vinitshahdeo.github.io/inspirational-quotes/) + [Twitter](https://twitter.com/Vinit_Shahdeo) = [Quotter](https://twitter.com/SayHiToQuotter)**
 
 
-## Getting Started
+## Getting Started with it
 
 - First clone this repository: ```git clone https://github.com/vinitshahdeo/Quotter.git```
 
