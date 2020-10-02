@@ -1,6 +1,6 @@
 ![Quotter on Twitter By Vinit Shahdeo](https://github.com/vinitshahdeo/Quotter/blob/master/img/quotter-twitter-bot.png?raw=true)
 
-# Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Twitter Bot
+# Quotter - [#DailyMotivation](https://twitter.com/SayHiToQuotter) Cool Twitter Bot
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Quotter.svg?logo=git&style=social&logoColor=teal)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/Quotter.svg?logo=github&style=social)](https://github.com/vinitshahdeo/)
 
