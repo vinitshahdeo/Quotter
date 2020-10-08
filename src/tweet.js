@@ -1,6 +1,6 @@
 //@author : vinitshahdeo
 const Twitter = require('twitter');
-const base64 = require('node-base64-image');
+const base64 = require('node-base64-image')
 const config = require('./config');
 const hashtags = require('../utils/hashtags');
 const quote = require('inspirational-quotes');
