@@ -7,7 +7,8 @@
     "build": "mocha tests/pre.js && mocha tests/test.js && node src/tweet.js",
     "pretest": "mocha tests/pre.js",
     "test": "mocha tests/test.js",
-    "start": "node src/tweet.js"
+    "start": "node src/tweet.js",
+    "test-lint": "npx eslint src/"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     "twitter": "1.7.1"
   },
   "devDependencies": {
+    "eslint": "^7.32.0",
     "mocha": "^5.2.0"
   }
 }
